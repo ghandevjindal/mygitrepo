@@ -1,3 +1,5 @@
 I am fixed file to fix bugs
 
 fixed another bug
+
+one more bug detected and fix
